@@ -1,0 +1,9 @@
+.gitignore
+.Rprofile
+ToDo
+COPYING
+^\.Rproj\.user$
+mirt.Rproj
+^.*\.Rproj$
+^Makefile$
+.travis.yml
